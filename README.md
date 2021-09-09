@@ -6,4 +6,4 @@ For training I have used the BraTS 2020 dataset and Keras/Tensorflow 2.0 and exp
 
 This is a work in progress.
 
-[BraTS dataset]("https://www.med.upenn.edu/cbica/brats2020/data.html")
+[BraTS dataset](https://www.med.upenn.edu/cbica/brats2020/data.html)
